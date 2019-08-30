@@ -58,6 +58,7 @@ public enum CommandCollection {
     REACTION(new ReactionCommand()),
     REASON(new ReasonCommand()),
     REMINDER(new ReminderCommand()),
+    ROCKET(new RocketCommand()),
     ROLE_SWAP(new RoleSwapCommand()),
     SERVER_INFO(new ServerInfoCommand()),
     TAG(new TagCommand()),
